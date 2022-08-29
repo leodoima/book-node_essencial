@@ -1,4 +1,4 @@
-# book-node_essencial
+# Livro: Node Essencial
 Códigos tratados durante leitura do livro Node Essencial da Novatec 📚
 
 <br>
